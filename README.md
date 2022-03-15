@@ -24,6 +24,7 @@ Options include:
     Print exceptions: wheter or not the program should print exceptions to the terminal(independent of raise exceptions)
 
 Text processing rules:
+
     All non-ascii words are ignored.
     All words that contain encoding failure are ignored.
     All words are converted to lower case.
