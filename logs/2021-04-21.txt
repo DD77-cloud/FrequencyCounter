@@ -1,0 +1,2 @@
+12:06:16	6	Non ascii input on line 0: ﻿The
+12:50:39	6	Non ascii input on line 0: ﻿The
