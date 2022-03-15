@@ -1,15 +1,5 @@
 This is an application that parses text files and counts the word frequency.
 
-All in all I feel that when i realized i will have almost a week to complete this project my ambition took the best 
-of me.
-I think if I were to redo this again I would not do logging or custom errors in favor of having basic tests for all 
-components that are live. I was pretty close, I think that would've provided me with enough time.
-
-Another consideration I had was whether to focus on the word counting algorithm or on the application surrounding that 
-algorithm and I felt that working on the application was more in line with the tasks that I might encounter as a junior
-developer.
-
-
 Example trigger query:
     python main.py TextFiles/6.txt 10 y 5
 
