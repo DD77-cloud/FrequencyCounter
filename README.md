@@ -14,6 +14,7 @@ a user menu for parsing single files.
 The file settings.py contains default settings for how the program operates.
 
 Options include:
+
     Turning on/off the user menu.
     Default minimum length of words to include into the top frequency counts.
     A list of stop words to include into top frequency counts.
